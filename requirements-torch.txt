@@ -1,0 +1,9 @@
+# PyTorch with NVIDIA GPU support (CUDA 13.2), for Windows.
+# Install this file AFTER requirements.txt, inside the project's virtual environment:
+#   .venv\Scripts\python.exe -m pip install -r requirements-torch.txt
+#
+# The --index-url line makes pip download PyTorch from the PyTorch website.
+# The normal package site (PyPI) only has the CPU-only build of PyTorch for Windows.
+--index-url https://download.pytorch.org/whl/cu132
+torch==2.15.0
+torchvision==0.29.2

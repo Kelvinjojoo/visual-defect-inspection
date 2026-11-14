@@ -1,0 +1,10 @@
+name,file,crop_image,is_defect,defect_types,hard_case,real_boxes
+Normal/422,Normal_422.jpg,images/Normal/422.png,False,,False,[]
+Normal/329,Normal_329.jpg,images/Normal/329.png,False,,False,[]
+Anomaly/006,Anomaly_006.jpg,images/Anomaly/006.png,True,"chunk of gum missing,small cracks",False,"[[262, 151, 521, 319, ""chunk of gum missing""], [120, 170, 294, 208, ""small cracks""], [396, 308, 412, 510, ""small cracks""]]"
+Anomaly/092,Anomaly_092.jpg,images/Anomaly/092.png,True,similar colour spot,False,"[[127, 426, 233, 484, ""similar colour spot""]]"
+Anomaly/070,Anomaly_070.jpg,images/Anomaly/070.png,True,scratches,False,"[[368, 223, 397, 274, ""scratches""], [275, 264, 328, 407, ""scratches""]]"
+Anomaly/032,Anomaly_032.jpg,images/Anomaly/032.png,True,"corner missing,scratches",True,"[[779, 71, 844, 137, ""corner missing""], [78, 83, 148, 152, ""corner missing""], [79, 433, 159, 504, ""corner missing""], [79, 218, 95, 403, ""scratches""]]"
+Anomaly/026,Anomaly_026.jpg,images/Anomaly/026.png,True,corner missing,True,"[[82, 449, 274, 513, ""corner missing""]]"
+Normal/316,Normal_316.jpg,images/Normal/316.png,False,,True,[]
+Normal/118,Normal_118.jpg,images/Normal/118.png,False,,True,[]

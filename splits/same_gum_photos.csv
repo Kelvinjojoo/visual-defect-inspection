@@ -1,0 +1,13 @@
+group,image,is_defect,keep,same_gum_as,score
+1,chewinggum/Data/Images/Normal/112.JPG,False,True,,
+1,chewinggum/Data/Images/Normal/113.JPG,False,False,chewinggum/Data/Images/Normal/112.JPG,0.677
+2,chewinggum/Data/Images/Normal/215.JPG,False,True,,
+2,chewinggum/Data/Images/Normal/216.JPG,False,False,chewinggum/Data/Images/Normal/215.JPG,0.727
+3,chewinggum/Data/Images/Normal/264.JPG,False,True,,
+3,chewinggum/Data/Images/Normal/265.JPG,False,False,chewinggum/Data/Images/Normal/264.JPG,0.668
+4,chewinggum/Data/Images/Normal/299.JPG,False,True,,
+4,chewinggum/Data/Images/Normal/300.JPG,False,False,chewinggum/Data/Images/Normal/299.JPG,0.569
+5,chewinggum/Data/Images/Normal/350.JPG,False,True,,
+5,chewinggum/Data/Images/Normal/351.JPG,False,False,chewinggum/Data/Images/Normal/350.JPG,0.637
+6,chewinggum/Data/Images/Normal/500.JPG,False,True,,
+6,chewinggum/Data/Images/Normal/501.JPG,False,False,chewinggum/Data/Images/Normal/500.JPG,0.707

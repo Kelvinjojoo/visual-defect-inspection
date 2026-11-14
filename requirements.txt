@@ -1,0 +1,24 @@
+# Libraries for this project, with the exact versions used.
+# Python 3.14 (these versions need Python 3.12 or newer).
+#
+# Install this file first, inside the project's virtual environment:
+#   .venv\Scripts\python.exe -m pip install -r requirements.txt
+# Then install PyTorch from requirements-torch.txt, and last Ultralytics (YOLO) from requirements-yolo.txt
+# (see README > Setup (Windows)).
+#
+# Notebook 0.1 checks that the installed versions match the ones below.
+
+# tables, numbers and pictures
+numpy==2.5.4
+pandas==3.1.1
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+pillow==13.0.0
+
+# notebooks and progress bars
+ipykernel==7.4.0
+tqdm==4.70.1
+
+# the demo app (step 6)
+streamlit==1.67.0

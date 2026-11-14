@@ -1,0 +1,604 @@
+image,mask,is_defect,defect_types,type_group,split,same_gum_as,label_order,yolo_5,yolo_10,yolo_20,yolo_40
+chewinggum/Data/Images/Normal/000.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/001.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/002.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/003.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/004.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/005.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/006.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/007.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/008.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/009.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/010.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/011.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/012.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/013.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/014.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/015.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/016.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/017.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/018.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/019.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/020.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/021.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/022.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/023.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/024.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/025.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/026.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/027.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/028.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/029.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/030.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/031.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/032.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/033.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/034.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/035.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/036.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/037.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/038.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/039.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/040.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/041.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/042.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/043.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/044.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/045.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/046.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/047.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/048.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/049.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/050.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/051.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/052.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/053.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/054.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/055.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/056.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/057.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/058.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/059.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/060.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/061.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/062.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/063.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/064.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/065.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/066.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/067.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/068.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/069.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/070.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/071.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/072.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/073.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/074.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/075.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/076.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/077.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/078.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/079.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/080.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/081.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/082.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/083.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/084.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/085.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/086.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/087.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/088.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/089.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/090.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/091.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/092.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/093.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/094.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/095.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/096.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/097.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/098.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/099.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/100.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/101.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/102.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/103.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/104.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/105.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/106.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/107.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/108.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/109.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/110.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/111.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/112.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/113.JPG,,False,,normal,excluded,chewinggum/Data/Images/Normal/112.JPG,,False,False,False,False
+chewinggum/Data/Images/Normal/114.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/115.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/116.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/117.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/118.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/119.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/120.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/121.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/122.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/123.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/124.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/125.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/126.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/127.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/128.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/129.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/130.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/131.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/132.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/133.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/134.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/135.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/136.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/137.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/138.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/139.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/140.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/141.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/142.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/143.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/144.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/145.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/146.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/147.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/148.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/149.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/150.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/151.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/152.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/153.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/154.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/155.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/156.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/157.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/158.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/159.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/160.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/161.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/162.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/163.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/164.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/165.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/166.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/167.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/168.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/169.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/170.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/171.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/172.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/173.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/174.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/175.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/176.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/177.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/178.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/179.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/180.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/181.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/182.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/183.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/184.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/185.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/186.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/187.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/188.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/189.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/190.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/191.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/192.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/193.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/194.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/195.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/196.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/197.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/198.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/199.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/200.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/201.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/202.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/203.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/204.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/205.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/206.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/207.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/208.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/209.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/210.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/211.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/212.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/213.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/214.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/215.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/216.JPG,,False,,normal,excluded,chewinggum/Data/Images/Normal/215.JPG,,False,False,False,False
+chewinggum/Data/Images/Normal/217.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/218.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/219.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/220.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/221.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/222.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/223.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/224.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/225.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/226.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/227.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/228.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/229.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/230.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/231.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/232.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/233.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/234.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/235.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/236.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/237.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/238.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/239.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/240.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/241.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/242.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/243.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/244.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/245.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/246.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/247.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/248.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/249.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/250.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/251.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/252.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/253.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/254.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/255.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/256.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/257.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/258.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/259.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/260.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/261.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/262.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/263.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/264.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/265.JPG,,False,,normal,excluded,chewinggum/Data/Images/Normal/264.JPG,,False,False,False,False
+chewinggum/Data/Images/Normal/266.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/267.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/268.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/269.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/270.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/271.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/272.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/273.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/274.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/275.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/276.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/277.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/278.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/279.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/280.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/281.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/282.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/283.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/284.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/285.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/286.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/287.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/288.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/289.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/290.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/291.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/292.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/293.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/294.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/295.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/296.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/297.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/298.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/299.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/300.JPG,,False,,normal,excluded,chewinggum/Data/Images/Normal/299.JPG,,False,False,False,False
+chewinggum/Data/Images/Normal/301.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/302.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/303.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/304.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/305.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/306.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/307.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/308.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/309.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/310.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/311.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/312.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/313.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/314.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/315.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/316.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/317.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/318.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/319.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/320.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/321.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/322.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/323.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/324.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/325.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/326.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/327.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/328.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/329.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/330.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/331.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/332.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/333.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/334.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/335.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/336.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/337.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/338.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/339.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/340.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/341.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/342.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/343.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/344.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/345.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/346.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/347.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/348.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/349.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/350.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/351.JPG,,False,,normal,excluded,chewinggum/Data/Images/Normal/350.JPG,,False,False,False,False
+chewinggum/Data/Images/Normal/352.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/353.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/354.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/355.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/356.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/357.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/358.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/359.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/360.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/361.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/362.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/363.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/364.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/365.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/366.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/367.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/368.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/369.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/370.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/371.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/372.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/373.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/374.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/375.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/376.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/377.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/378.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/379.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/380.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/381.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/382.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/383.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/384.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/385.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/386.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/387.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/388.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/389.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/390.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/391.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/392.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/393.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/394.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/395.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/396.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/397.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/398.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/399.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/400.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/401.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/402.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/403.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/404.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/405.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/406.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/407.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/408.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/409.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/410.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/411.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/412.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/413.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/414.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/415.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/416.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/417.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/418.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/419.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/420.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/421.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/422.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/423.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/424.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/425.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/426.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/427.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/428.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/429.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/430.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/431.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/432.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/433.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/434.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/435.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/436.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/437.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/438.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/439.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/440.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/441.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/442.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/443.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/444.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/445.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/446.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/447.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/448.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/449.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/450.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/451.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/452.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/453.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/454.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/455.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/456.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/457.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/458.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/459.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/460.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/461.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/462.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/463.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/464.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/465.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/466.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/467.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/468.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/469.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/470.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/471.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/472.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/473.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/474.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/475.JPG,,False,,normal,val,,,False,False,False,False
+chewinggum/Data/Images/Normal/476.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/477.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/478.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/479.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/480.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/481.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/482.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/483.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/484.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/485.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/486.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/487.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/488.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/489.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/490.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/491.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/492.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/493.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/494.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/495.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/496.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/497.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/498.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/499.JPG,,False,,normal,test,,,False,False,False,False
+chewinggum/Data/Images/Normal/500.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Normal/501.JPG,,False,,normal,excluded,chewinggum/Data/Images/Normal/500.JPG,,False,False,False,False
+chewinggum/Data/Images/Normal/502.JPG,,False,,normal,train,,,True,True,True,True
+chewinggum/Data/Images/Anomaly/000.JPG,chewinggum/Data/Masks/Anomaly/000.png,True,"chunk of gum missing,scratches,small cracks",scratches,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/001.JPG,chewinggum/Data/Masks/Anomaly/001.png,True,"corner missing,small cracks",small cracks,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/002.JPG,chewinggum/Data/Masks/Anomaly/002.png,True,"chunk of gum missing,small cracks",small cracks,train,,38,False,False,False,True
+chewinggum/Data/Images/Anomaly/003.JPG,chewinggum/Data/Masks/Anomaly/003.png,True,"corner missing,small cracks",small cracks,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/004.JPG,chewinggum/Data/Masks/Anomaly/004.png,True,"chunk of gum missing,small cracks",small cracks,train,,15,False,False,True,True
+chewinggum/Data/Images/Anomaly/005.JPG,chewinggum/Data/Masks/Anomaly/005.png,True,corner missing,corner missing,val,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/006.JPG,chewinggum/Data/Masks/Anomaly/006.png,True,"chunk of gum missing,small cracks",small cracks,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/007.JPG,chewinggum/Data/Masks/Anomaly/007.png,True,"chunk of gum missing,corner missing,small cracks",small cracks,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/008.JPG,chewinggum/Data/Masks/Anomaly/008.png,True,"corner missing,small cracks",small cracks,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/009.JPG,chewinggum/Data/Masks/Anomaly/009.png,True,"chunk of gum missing,small cracks",small cracks,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/010.JPG,chewinggum/Data/Masks/Anomaly/010.png,True,"chunk of gum missing,small cracks",small cracks,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/011.JPG,chewinggum/Data/Masks/Anomaly/011.png,True,"chunk of gum missing,corner missing,small cracks",small cracks,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/012.JPG,chewinggum/Data/Masks/Anomaly/012.png,True,"chunk of gum missing,small cracks",small cracks,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/013.JPG,chewinggum/Data/Masks/Anomaly/013.png,True,"chunk of gum missing,small cracks",small cracks,train,,36,False,False,False,True
+chewinggum/Data/Images/Anomaly/014.JPG,chewinggum/Data/Masks/Anomaly/014.png,True,"chunk of gum missing,small cracks",small cracks,train,,33,False,False,False,True
+chewinggum/Data/Images/Anomaly/015.JPG,chewinggum/Data/Masks/Anomaly/015.png,True,"chunk of gum missing,small cracks",small cracks,val,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/016.JPG,chewinggum/Data/Masks/Anomaly/016.png,True,chunk of gum missing,chunk of gum missing,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/017.JPG,chewinggum/Data/Masks/Anomaly/017.png,True,chunk of gum missing,chunk of gum missing,train,,21,False,False,False,True
+chewinggum/Data/Images/Anomaly/018.JPG,chewinggum/Data/Masks/Anomaly/018.png,True,"chunk of gum missing,small cracks",small cracks,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/019.JPG,chewinggum/Data/Masks/Anomaly/019.png,True,"chunk of gum missing,corner missing,small cracks",small cracks,train,,20,False,False,True,True
+chewinggum/Data/Images/Anomaly/020.JPG,chewinggum/Data/Masks/Anomaly/020.png,True,chunk of gum missing,chunk of gum missing,train,,11,False,False,True,True
+chewinggum/Data/Images/Anomaly/021.JPG,chewinggum/Data/Masks/Anomaly/021.png,True,"chunk of gum missing,corner missing,small cracks",small cracks,train,,25,False,False,False,True
+chewinggum/Data/Images/Anomaly/022.JPG,chewinggum/Data/Masks/Anomaly/022.png,True,"chunk of gum missing,small cracks",small cracks,train,,40,False,False,False,True
+chewinggum/Data/Images/Anomaly/023.JPG,chewinggum/Data/Masks/Anomaly/023.png,True,chunk of gum missing,chunk of gum missing,val,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/024.JPG,chewinggum/Data/Masks/Anomaly/024.png,True,chunk of gum missing,chunk of gum missing,train,,26,False,False,False,True
+chewinggum/Data/Images/Anomaly/025.JPG,chewinggum/Data/Masks/Anomaly/025.png,True,corner missing,corner missing,train,,27,False,False,False,True
+chewinggum/Data/Images/Anomaly/026.JPG,chewinggum/Data/Masks/Anomaly/026.png,True,corner missing,corner missing,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/027.JPG,chewinggum/Data/Masks/Anomaly/027.png,True,corner missing,corner missing,train,,31,False,False,False,True
+chewinggum/Data/Images/Anomaly/028.JPG,chewinggum/Data/Masks/Anomaly/028.png,True,corner missing,corner missing,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/029.JPG,chewinggum/Data/Masks/Anomaly/029.png,True,corner missing,corner missing,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/030.JPG,chewinggum/Data/Masks/Anomaly/030.png,True,"chunk of gum missing,corner missing",corner missing,train,,7,False,True,True,True
+chewinggum/Data/Images/Anomaly/031.JPG,chewinggum/Data/Masks/Anomaly/031.png,True,corner missing,corner missing,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/032.JPG,chewinggum/Data/Masks/Anomaly/032.png,True,"corner missing,scratches",scratches,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/033.JPG,chewinggum/Data/Masks/Anomaly/033.png,True,corner missing,corner missing,train,,17,False,False,True,True
+chewinggum/Data/Images/Anomaly/034.JPG,chewinggum/Data/Masks/Anomaly/034.png,True,corner missing,corner missing,train,,34,False,False,False,True
+chewinggum/Data/Images/Anomaly/035.JPG,chewinggum/Data/Masks/Anomaly/035.png,True,corner missing,corner missing,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/036.JPG,chewinggum/Data/Masks/Anomaly/036.png,True,corner missing,corner missing,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/037.JPG,chewinggum/Data/Masks/Anomaly/037.png,True,corner missing,corner missing,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/038.JPG,chewinggum/Data/Masks/Anomaly/038.png,True,"corner missing,small cracks",small cracks,val,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/039.JPG,chewinggum/Data/Masks/Anomaly/039.png,True,corner missing,corner missing,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/040.JPG,chewinggum/Data/Masks/Anomaly/040.png,True,chunk of gum missing,chunk of gum missing,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/041.JPG,chewinggum/Data/Masks/Anomaly/041.png,True,"chunk of gum missing,corner missing",corner missing,train,,22,False,False,False,True
+chewinggum/Data/Images/Anomaly/042.JPG,chewinggum/Data/Masks/Anomaly/042.png,True,"chunk of gum missing,corner missing",corner missing,train,,2,True,True,True,True
+chewinggum/Data/Images/Anomaly/043.JPG,chewinggum/Data/Masks/Anomaly/043.png,True,chunk of gum missing,chunk of gum missing,val,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/044.JPG,chewinggum/Data/Masks/Anomaly/044.png,True,"chunk of gum missing,corner missing",corner missing,val,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/045.JPG,chewinggum/Data/Masks/Anomaly/045.png,True,"chunk of gum missing,corner missing",corner missing,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/046.JPG,chewinggum/Data/Masks/Anomaly/046.png,True,"chunk of gum missing,corner missing",corner missing,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/047.JPG,chewinggum/Data/Masks/Anomaly/047.png,True,chunk of gum missing,chunk of gum missing,train,,1,True,True,True,True
+chewinggum/Data/Images/Anomaly/048.JPG,chewinggum/Data/Masks/Anomaly/048.png,True,chunk of gum missing,chunk of gum missing,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/049.JPG,chewinggum/Data/Masks/Anomaly/049.png,True,chunk of gum missing,chunk of gum missing,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/050.JPG,chewinggum/Data/Masks/Anomaly/050.png,True,chunk of gum missing,chunk of gum missing,train,,6,False,True,True,True
+chewinggum/Data/Images/Anomaly/051.JPG,chewinggum/Data/Masks/Anomaly/051.png,True,"chunk of gum missing,small cracks",small cracks,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/052.JPG,chewinggum/Data/Masks/Anomaly/052.png,True,chunk of gum missing,chunk of gum missing,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/053.JPG,chewinggum/Data/Masks/Anomaly/053.png,True,"chunk of gum missing,small cracks",small cracks,train,,5,True,True,True,True
+chewinggum/Data/Images/Anomaly/054.JPG,chewinggum/Data/Masks/Anomaly/054.png,True,chunk of gum missing,chunk of gum missing,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/055.JPG,chewinggum/Data/Masks/Anomaly/055.png,True,"chunk of gum missing,corner missing,small cracks",small cracks,train,,30,False,False,False,True
+chewinggum/Data/Images/Anomaly/056.JPG,chewinggum/Data/Masks/Anomaly/056.png,True,chunk of gum missing,chunk of gum missing,train,,16,False,False,True,True
+chewinggum/Data/Images/Anomaly/057.JPG,chewinggum/Data/Masks/Anomaly/057.png,True,"chunk of gum missing,scratches,small cracks",scratches,train,,3,True,True,True,True
+chewinggum/Data/Images/Anomaly/058.JPG,chewinggum/Data/Masks/Anomaly/058.png,True,chunk of gum missing,chunk of gum missing,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/059.JPG,chewinggum/Data/Masks/Anomaly/059.png,True,"chunk of gum missing,scratches",scratches,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/060.JPG,chewinggum/Data/Masks/Anomaly/060.png,True,"chunk of gum missing,corner missing,small cracks",small cracks,train,,10,False,True,True,True
+chewinggum/Data/Images/Anomaly/061.JPG,chewinggum/Data/Masks/Anomaly/061.png,True,"chunk of gum missing,small cracks",small cracks,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/062.JPG,chewinggum/Data/Masks/Anomaly/062.png,True,chunk of gum missing,chunk of gum missing,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/063.JPG,chewinggum/Data/Masks/Anomaly/063.png,True,"chunk of gum missing,corner missing",corner missing,train,,12,False,False,True,True
+chewinggum/Data/Images/Anomaly/064.JPG,chewinggum/Data/Masks/Anomaly/064.png,True,"chunk of gum missing,small cracks",small cracks,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/065.JPG,chewinggum/Data/Masks/Anomaly/065.png,True,"corner missing,scratches",scratches,val,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/066.JPG,chewinggum/Data/Masks/Anomaly/066.png,True,scratches,scratches,train,,28,False,False,False,True
+chewinggum/Data/Images/Anomaly/067.JPG,chewinggum/Data/Masks/Anomaly/067.png,True,scratches,scratches,train,,8,False,True,True,True
+chewinggum/Data/Images/Anomaly/068.JPG,chewinggum/Data/Masks/Anomaly/068.png,True,scratches,scratches,train,,23,False,False,False,True
+chewinggum/Data/Images/Anomaly/069.JPG,chewinggum/Data/Masks/Anomaly/069.png,True,scratches,scratches,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/070.JPG,chewinggum/Data/Masks/Anomaly/070.png,True,scratches,scratches,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/071.JPG,chewinggum/Data/Masks/Anomaly/071.png,True,scratches,scratches,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/072.JPG,chewinggum/Data/Masks/Anomaly/072.png,True,scratches,scratches,train,,13,False,False,True,True
+chewinggum/Data/Images/Anomaly/073.JPG,chewinggum/Data/Masks/Anomaly/073.png,True,scratches,scratches,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/074.JPG,chewinggum/Data/Masks/Anomaly/074.png,True,scratches,scratches,train,,18,False,False,True,True
+chewinggum/Data/Images/Anomaly/075.JPG,chewinggum/Data/Masks/Anomaly/075.png,True,similar colour spot,similar colour spot,val,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/076.JPG,chewinggum/Data/Masks/Anomaly/076.png,True,similar colour spot,similar colour spot,train,,4,True,True,True,True
+chewinggum/Data/Images/Anomaly/077.JPG,chewinggum/Data/Masks/Anomaly/077.png,True,similar colour spot,similar colour spot,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/078.JPG,chewinggum/Data/Masks/Anomaly/078.png,True,similar colour spot,similar colour spot,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/079.JPG,chewinggum/Data/Masks/Anomaly/079.png,True,similar colour spot,similar colour spot,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/080.JPG,chewinggum/Data/Masks/Anomaly/080.png,True,"corner missing,similar colour spot,small cracks",similar colour spot,train,,29,False,False,False,True
+chewinggum/Data/Images/Anomaly/081.JPG,chewinggum/Data/Masks/Anomaly/081.png,True,"scratches,similar colour spot",scratches,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/082.JPG,chewinggum/Data/Masks/Anomaly/082.png,True,similar colour spot,similar colour spot,train,,19,False,False,True,True
+chewinggum/Data/Images/Anomaly/083.JPG,chewinggum/Data/Masks/Anomaly/083.png,True,similar colour spot,similar colour spot,train,,35,False,False,False,True
+chewinggum/Data/Images/Anomaly/084.JPG,chewinggum/Data/Masks/Anomaly/084.png,True,similar colour spot,similar colour spot,train,,32,False,False,False,True
+chewinggum/Data/Images/Anomaly/085.JPG,chewinggum/Data/Masks/Anomaly/085.png,True,"corner missing,similar colour spot",similar colour spot,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/086.JPG,chewinggum/Data/Masks/Anomaly/086.png,True,"corner missing,similar colour spot",similar colour spot,train,,39,False,False,False,True
+chewinggum/Data/Images/Anomaly/087.JPG,chewinggum/Data/Masks/Anomaly/087.png,True,similar colour spot,similar colour spot,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/088.JPG,chewinggum/Data/Masks/Anomaly/088.png,True,similar colour spot,similar colour spot,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/089.JPG,chewinggum/Data/Masks/Anomaly/089.png,True,similar colour spot,similar colour spot,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/090.JPG,chewinggum/Data/Masks/Anomaly/090.png,True,similar colour spot,similar colour spot,train,,14,False,False,True,True
+chewinggum/Data/Images/Anomaly/091.JPG,chewinggum/Data/Masks/Anomaly/091.png,True,"corner missing,similar colour spot",similar colour spot,train,,37,False,False,False,True
+chewinggum/Data/Images/Anomaly/092.JPG,chewinggum/Data/Masks/Anomaly/092.png,True,similar colour spot,similar colour spot,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/093.JPG,chewinggum/Data/Masks/Anomaly/093.png,True,"scratches,similar colour spot,small cracks",scratches,val,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/094.JPG,chewinggum/Data/Masks/Anomaly/094.png,True,similar colour spot,similar colour spot,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/095.JPG,chewinggum/Data/Masks/Anomaly/095.png,True,similar colour spot,similar colour spot,train,,24,False,False,False,True
+chewinggum/Data/Images/Anomaly/096.JPG,chewinggum/Data/Masks/Anomaly/096.png,True,similar colour spot,similar colour spot,val,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/097.JPG,chewinggum/Data/Masks/Anomaly/097.png,True,similar colour spot,similar colour spot,train,,9,False,True,True,True
+chewinggum/Data/Images/Anomaly/098.JPG,chewinggum/Data/Masks/Anomaly/098.png,True,similar colour spot,similar colour spot,test,,,False,False,False,False
+chewinggum/Data/Images/Anomaly/099.JPG,chewinggum/Data/Masks/Anomaly/099.png,True,similar colour spot,similar colour spot,test,,,False,False,False,False

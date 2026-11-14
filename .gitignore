@@ -1,0 +1,23 @@
+# original photos: download them yourself (see README)
+data/raw/chewinggum/
+
+# crops, labels and lists: notebooks 3.1 and 3.2 make them again
+data/processed/
+
+# trained models: the modeling notebooks of step 4 make them again.
+# Only the 2 models of the demo app are kept in the repo.
+models/**
+!models/**/
+!models/patchcore/split_1_memory_bank.npz
+!models/yolo/split_1_k40/weights/last.pt
+
+# the project's virtual environment (each computer makes its own, see README)
+.venv/
+
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+
+# system files
+.DS_Store
+Thumbs.db

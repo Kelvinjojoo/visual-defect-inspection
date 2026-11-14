@@ -1,0 +1,7 @@
+# Ultralytics (YOLO), for notebooks 4.2 and 4.3.
+# Install this file LAST, after requirements-torch.txt, inside the project's virtual environment:
+#   .venv\Scripts\python.exe -m pip install -r requirements-yolo.txt
+#
+# Ultralytics needs PyTorch. If PyTorch is not installed yet, pip takes the CPU-only build of PyTorch
+# from the normal package site, and the GPU cannot be used. Installed after PyTorch, pip keeps the GPU build.
+ultralytics==8.4.208

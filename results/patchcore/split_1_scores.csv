@@ -1,0 +1,211 @@
+image,crop_image,part,is_defect,defect_types,score,best_row,best_col
+chewinggum/Data/Images/Anomaly/005.JPG,images/Anomaly/005.png,val,True,corner missing,3.054955,10,29
+chewinggum/Data/Images/Anomaly/015.JPG,images/Anomaly/015.png,val,True,"chunk of gum missing,small cracks",3.1741726,15,21
+chewinggum/Data/Images/Anomaly/023.JPG,images/Anomaly/023.png,val,True,chunk of gum missing,2.7350729,29,27
+chewinggum/Data/Images/Anomaly/038.JPG,images/Anomaly/038.png,val,True,"corner missing,small cracks",3.0188012,28,46
+chewinggum/Data/Images/Anomaly/043.JPG,images/Anomaly/043.png,val,True,chunk of gum missing,2.887622,15,40
+chewinggum/Data/Images/Anomaly/044.JPG,images/Anomaly/044.png,val,True,"chunk of gum missing,corner missing",2.5636184,21,23
+chewinggum/Data/Images/Anomaly/065.JPG,images/Anomaly/065.png,val,True,"corner missing,scratches",2.7381294,12,27
+chewinggum/Data/Images/Anomaly/075.JPG,images/Anomaly/075.png,val,True,similar colour spot,2.7657511,28,12
+chewinggum/Data/Images/Anomaly/093.JPG,images/Anomaly/093.png,val,True,"scratches,similar colour spot,small cracks",3.1465156,16,38
+chewinggum/Data/Images/Anomaly/096.JPG,images/Anomaly/096.png,val,True,similar colour spot,2.7626927,13,43
+chewinggum/Data/Images/Normal/020.JPG,images/Normal/020.png,val,False,,1.9429383,35,33
+chewinggum/Data/Images/Normal/028.JPG,images/Normal/028.png,val,False,,1.9598405,34,10
+chewinggum/Data/Images/Normal/040.JPG,images/Normal/040.png,val,False,,2.0150898,6,54
+chewinggum/Data/Images/Normal/044.JPG,images/Normal/044.png,val,False,,2.0029078,5,2
+chewinggum/Data/Images/Normal/056.JPG,images/Normal/056.png,val,False,,2.034638,33,41
+chewinggum/Data/Images/Normal/059.JPG,images/Normal/059.png,val,False,,2.0187023,33,2
+chewinggum/Data/Images/Normal/063.JPG,images/Normal/063.png,val,False,,2.05584,5,56
+chewinggum/Data/Images/Normal/078.JPG,images/Normal/078.png,val,False,,1.9384921,2,4
+chewinggum/Data/Images/Normal/091.JPG,images/Normal/091.png,val,False,,1.976206,36,30
+chewinggum/Data/Images/Normal/097.JPG,images/Normal/097.png,val,False,,1.9908984,33,4
+chewinggum/Data/Images/Normal/099.JPG,images/Normal/099.png,val,False,,2.0750673,34,23
+chewinggum/Data/Images/Normal/112.JPG,images/Normal/112.png,val,False,,1.9803392,3,3
+chewinggum/Data/Images/Normal/116.JPG,images/Normal/116.png,val,False,,1.9734808,2,54
+chewinggum/Data/Images/Normal/125.JPG,images/Normal/125.png,val,False,,1.9517285,32,17
+chewinggum/Data/Images/Normal/143.JPG,images/Normal/143.png,val,False,,2.0313654,4,2
+chewinggum/Data/Images/Normal/145.JPG,images/Normal/145.png,val,False,,2.0053854,34,7
+chewinggum/Data/Images/Normal/149.JPG,images/Normal/149.png,val,False,,1.9573519,35,50
+chewinggum/Data/Images/Normal/157.JPG,images/Normal/157.png,val,False,,2.3194857,22,12
+chewinggum/Data/Images/Normal/170.JPG,images/Normal/170.png,val,False,,1.9122562,3,56
+chewinggum/Data/Images/Normal/177.JPG,images/Normal/177.png,val,False,,2.05806,32,52
+chewinggum/Data/Images/Normal/182.JPG,images/Normal/182.png,val,False,,2.0157917,36,54
+chewinggum/Data/Images/Normal/187.JPG,images/Normal/187.png,val,False,,1.9591042,33,4
+chewinggum/Data/Images/Normal/208.JPG,images/Normal/208.png,val,False,,1.9878534,31,56
+chewinggum/Data/Images/Normal/213.JPG,images/Normal/213.png,val,False,,1.972636,35,22
+chewinggum/Data/Images/Normal/222.JPG,images/Normal/222.png,val,False,,1.9516616,2,48
+chewinggum/Data/Images/Normal/229.JPG,images/Normal/229.png,val,False,,1.9501036,10,55
+chewinggum/Data/Images/Normal/241.JPG,images/Normal/241.png,val,False,,1.9581844,33,5
+chewinggum/Data/Images/Normal/242.JPG,images/Normal/242.png,val,False,,1.9287844,7,2
+chewinggum/Data/Images/Normal/249.JPG,images/Normal/249.png,val,False,,1.9665438,33,47
+chewinggum/Data/Images/Normal/252.JPG,images/Normal/252.png,val,False,,2.069427,2,3
+chewinggum/Data/Images/Normal/264.JPG,images/Normal/264.png,val,False,,2.0307066,2,7
+chewinggum/Data/Images/Normal/274.JPG,images/Normal/274.png,val,False,,2.1531181,21,9
+chewinggum/Data/Images/Normal/277.JPG,images/Normal/277.png,val,False,,1.93549,1,3
+chewinggum/Data/Images/Normal/281.JPG,images/Normal/281.png,val,False,,2.0109303,5,54
+chewinggum/Data/Images/Normal/282.JPG,images/Normal/282.png,val,False,,2.0147269,33,4
+chewinggum/Data/Images/Normal/291.JPG,images/Normal/291.png,val,False,,1.8968827,32,17
+chewinggum/Data/Images/Normal/317.JPG,images/Normal/317.png,val,False,,1.9421415,2,55
+chewinggum/Data/Images/Normal/320.JPG,images/Normal/320.png,val,False,,1.9231211,35,55
+chewinggum/Data/Images/Normal/323.JPG,images/Normal/323.png,val,False,,2.2092454,5,55
+chewinggum/Data/Images/Normal/339.JPG,images/Normal/339.png,val,False,,1.9272515,33,38
+chewinggum/Data/Images/Normal/341.JPG,images/Normal/341.png,val,False,,1.9964647,2,6
+chewinggum/Data/Images/Normal/368.JPG,images/Normal/368.png,val,False,,2.0619228,4,47
+chewinggum/Data/Images/Normal/369.JPG,images/Normal/369.png,val,False,,2.0653324,20,9
+chewinggum/Data/Images/Normal/392.JPG,images/Normal/392.png,val,False,,2.025707,35,53
+chewinggum/Data/Images/Normal/401.JPG,images/Normal/401.png,val,False,,1.8831828,35,50
+chewinggum/Data/Images/Normal/427.JPG,images/Normal/427.png,val,False,,1.9694227,4,53
+chewinggum/Data/Images/Normal/441.JPG,images/Normal/441.png,val,False,,1.9809543,2,3
+chewinggum/Data/Images/Normal/469.JPG,images/Normal/469.png,val,False,,1.8893746,16,55
+chewinggum/Data/Images/Normal/470.JPG,images/Normal/470.png,val,False,,2.1279528,5,3
+chewinggum/Data/Images/Normal/475.JPG,images/Normal/475.png,val,False,,2.047126,35,50
+chewinggum/Data/Images/Anomaly/000.JPG,images/Anomaly/000.png,test,True,"chunk of gum missing,scratches,small cracks",3.253945,18,16
+chewinggum/Data/Images/Anomaly/001.JPG,images/Anomaly/001.png,test,True,"corner missing,small cracks",2.8344276,9,22
+chewinggum/Data/Images/Anomaly/003.JPG,images/Anomaly/003.png,test,True,"corner missing,small cracks",3.0459151,29,31
+chewinggum/Data/Images/Anomaly/006.JPG,images/Anomaly/006.png,test,True,"chunk of gum missing,small cracks",3.2073822,16,30
+chewinggum/Data/Images/Anomaly/007.JPG,images/Anomaly/007.png,test,True,"chunk of gum missing,corner missing,small cracks",3.061606,24,20
+chewinggum/Data/Images/Anomaly/008.JPG,images/Anomaly/008.png,test,True,"corner missing,small cracks",2.8186395,30,14
+chewinggum/Data/Images/Anomaly/009.JPG,images/Anomaly/009.png,test,True,"chunk of gum missing,small cracks",3.630867,18,20
+chewinggum/Data/Images/Anomaly/010.JPG,images/Anomaly/010.png,test,True,"chunk of gum missing,small cracks",2.7028928,7,24
+chewinggum/Data/Images/Anomaly/011.JPG,images/Anomaly/011.png,test,True,"chunk of gum missing,corner missing,small cracks",3.103419,24,29
+chewinggum/Data/Images/Anomaly/012.JPG,images/Anomaly/012.png,test,True,"chunk of gum missing,small cracks",3.2394147,15,23
+chewinggum/Data/Images/Anomaly/016.JPG,images/Anomaly/016.png,test,True,chunk of gum missing,2.6771805,8,25
+chewinggum/Data/Images/Anomaly/018.JPG,images/Anomaly/018.png,test,True,"chunk of gum missing,small cracks",3.171294,16,14
+chewinggum/Data/Images/Anomaly/026.JPG,images/Anomaly/026.png,test,True,corner missing,2.5475907,28,9
+chewinggum/Data/Images/Anomaly/028.JPG,images/Anomaly/028.png,test,True,corner missing,2.1715114,27,51
+chewinggum/Data/Images/Anomaly/029.JPG,images/Anomaly/029.png,test,True,corner missing,2.5745914,28,50
+chewinggum/Data/Images/Anomaly/031.JPG,images/Anomaly/031.png,test,True,corner missing,2.2020278,9,7
+chewinggum/Data/Images/Anomaly/032.JPG,images/Anomaly/032.png,test,True,"corner missing,scratches",1.953261,18,37
+chewinggum/Data/Images/Anomaly/035.JPG,images/Anomaly/035.png,test,True,corner missing,2.7336886,30,51
+chewinggum/Data/Images/Anomaly/036.JPG,images/Anomaly/036.png,test,True,corner missing,2.8861392,9,10
+chewinggum/Data/Images/Anomaly/037.JPG,images/Anomaly/037.png,test,True,corner missing,2.2344506,29,9
+chewinggum/Data/Images/Anomaly/039.JPG,images/Anomaly/039.png,test,True,corner missing,2.7184947,29,49
+chewinggum/Data/Images/Anomaly/040.JPG,images/Anomaly/040.png,test,True,chunk of gum missing,2.8289156,17,29
+chewinggum/Data/Images/Anomaly/045.JPG,images/Anomaly/045.png,test,True,"chunk of gum missing,corner missing",3.231888,16,31
+chewinggum/Data/Images/Anomaly/046.JPG,images/Anomaly/046.png,test,True,"chunk of gum missing,corner missing",2.9971147,16,31
+chewinggum/Data/Images/Anomaly/048.JPG,images/Anomaly/048.png,test,True,chunk of gum missing,3.2000122,19,32
+chewinggum/Data/Images/Anomaly/049.JPG,images/Anomaly/049.png,test,True,chunk of gum missing,2.7361996,22,27
+chewinggum/Data/Images/Anomaly/051.JPG,images/Anomaly/051.png,test,True,"chunk of gum missing,small cracks",2.6940203,15,18
+chewinggum/Data/Images/Anomaly/052.JPG,images/Anomaly/052.png,test,True,chunk of gum missing,3.0403168,18,31
+chewinggum/Data/Images/Anomaly/054.JPG,images/Anomaly/054.png,test,True,chunk of gum missing,3.0496013,19,25
+chewinggum/Data/Images/Anomaly/058.JPG,images/Anomaly/058.png,test,True,chunk of gum missing,2.6398656,14,27
+chewinggum/Data/Images/Anomaly/059.JPG,images/Anomaly/059.png,test,True,"chunk of gum missing,scratches",3.0444608,19,23
+chewinggum/Data/Images/Anomaly/061.JPG,images/Anomaly/061.png,test,True,"chunk of gum missing,small cracks",3.008992,20,26
+chewinggum/Data/Images/Anomaly/062.JPG,images/Anomaly/062.png,test,True,chunk of gum missing,2.648777,16,33
+chewinggum/Data/Images/Anomaly/064.JPG,images/Anomaly/064.png,test,True,"chunk of gum missing,small cracks",3.0217066,18,27
+chewinggum/Data/Images/Anomaly/069.JPG,images/Anomaly/069.png,test,True,scratches,2.5288146,14,28
+chewinggum/Data/Images/Anomaly/070.JPG,images/Anomaly/070.png,test,True,scratches,2.4089048,24,51
+chewinggum/Data/Images/Anomaly/071.JPG,images/Anomaly/071.png,test,True,scratches,2.4658132,25,28
+chewinggum/Data/Images/Anomaly/073.JPG,images/Anomaly/073.png,test,True,scratches,2.2968774,25,34
+chewinggum/Data/Images/Anomaly/077.JPG,images/Anomaly/077.png,test,True,similar colour spot,3.1213458,22,36
+chewinggum/Data/Images/Anomaly/078.JPG,images/Anomaly/078.png,test,True,similar colour spot,2.6811273,13,15
+chewinggum/Data/Images/Anomaly/079.JPG,images/Anomaly/079.png,test,True,similar colour spot,2.702356,9,44
+chewinggum/Data/Images/Anomaly/081.JPG,images/Anomaly/081.png,test,True,"scratches,similar colour spot",3.1833723,21,28
+chewinggum/Data/Images/Anomaly/085.JPG,images/Anomaly/085.png,test,True,"corner missing,similar colour spot",2.8680968,16,48
+chewinggum/Data/Images/Anomaly/087.JPG,images/Anomaly/087.png,test,True,similar colour spot,2.8147967,18,37
+chewinggum/Data/Images/Anomaly/088.JPG,images/Anomaly/088.png,test,True,similar colour spot,2.9360394,20,29
+chewinggum/Data/Images/Anomaly/089.JPG,images/Anomaly/089.png,test,True,similar colour spot,2.9353228,27,29
+chewinggum/Data/Images/Anomaly/092.JPG,images/Anomaly/092.png,test,True,similar colour spot,3.3051307,29,9
+chewinggum/Data/Images/Anomaly/094.JPG,images/Anomaly/094.png,test,True,similar colour spot,2.6080773,11,41
+chewinggum/Data/Images/Anomaly/098.JPG,images/Anomaly/098.png,test,True,similar colour spot,2.9945672,19,12
+chewinggum/Data/Images/Anomaly/099.JPG,images/Anomaly/099.png,test,True,similar colour spot,2.904392,24,29
+chewinggum/Data/Images/Normal/004.JPG,images/Normal/004.png,test,False,,1.9787236,32,56
+chewinggum/Data/Images/Normal/005.JPG,images/Normal/005.png,test,False,,2.0408409,33,45
+chewinggum/Data/Images/Normal/006.JPG,images/Normal/006.png,test,False,,2.0147552,34,44
+chewinggum/Data/Images/Normal/011.JPG,images/Normal/011.png,test,False,,2.0352645,1,1
+chewinggum/Data/Images/Normal/017.JPG,images/Normal/017.png,test,False,,1.9338981,32,3
+chewinggum/Data/Images/Normal/029.JPG,images/Normal/029.png,test,False,,1.9602973,34,11
+chewinggum/Data/Images/Normal/031.JPG,images/Normal/031.png,test,False,,1.8968464,35,20
+chewinggum/Data/Images/Normal/034.JPG,images/Normal/034.png,test,False,,1.9888946,36,20
+chewinggum/Data/Images/Normal/047.JPG,images/Normal/047.png,test,False,,2.0025184,35,6
+chewinggum/Data/Images/Normal/062.JPG,images/Normal/062.png,test,False,,2.0782912,33,19
+chewinggum/Data/Images/Normal/065.JPG,images/Normal/065.png,test,False,,1.9279594,6,55
+chewinggum/Data/Images/Normal/066.JPG,images/Normal/066.png,test,False,,2.0044477,33,2
+chewinggum/Data/Images/Normal/067.JPG,images/Normal/067.png,test,False,,1.9618944,2,5
+chewinggum/Data/Images/Normal/085.JPG,images/Normal/085.png,test,False,,2.0815744,18,33
+chewinggum/Data/Images/Normal/090.JPG,images/Normal/090.png,test,False,,1.987255,34,11
+chewinggum/Data/Images/Normal/092.JPG,images/Normal/092.png,test,False,,1.9594015,24,1
+chewinggum/Data/Images/Normal/102.JPG,images/Normal/102.png,test,False,,1.9167253,8,55
+chewinggum/Data/Images/Normal/107.JPG,images/Normal/107.png,test,False,,2.0563025,32,54
+chewinggum/Data/Images/Normal/110.JPG,images/Normal/110.png,test,False,,1.9974965,3,52
+chewinggum/Data/Images/Normal/118.JPG,images/Normal/118.png,test,False,,2.1252499,26,20
+chewinggum/Data/Images/Normal/120.JPG,images/Normal/120.png,test,False,,1.961046,3,6
+chewinggum/Data/Images/Normal/133.JPG,images/Normal/133.png,test,False,,1.9410245,6,55
+chewinggum/Data/Images/Normal/136.JPG,images/Normal/136.png,test,False,,2.0536964,4,2
+chewinggum/Data/Images/Normal/147.JPG,images/Normal/147.png,test,False,,1.9166133,36,50
+chewinggum/Data/Images/Normal/148.JPG,images/Normal/148.png,test,False,,2.098374,24,8
+chewinggum/Data/Images/Normal/160.JPG,images/Normal/160.png,test,False,,1.9480746,20,2
+chewinggum/Data/Images/Normal/163.JPG,images/Normal/163.png,test,False,,1.9221529,34,47
+chewinggum/Data/Images/Normal/165.JPG,images/Normal/165.png,test,False,,1.9275117,34,49
+chewinggum/Data/Images/Normal/166.JPG,images/Normal/166.png,test,False,,1.9790674,35,8
+chewinggum/Data/Images/Normal/169.JPG,images/Normal/169.png,test,False,,1.9759598,35,4
+chewinggum/Data/Images/Normal/173.JPG,images/Normal/173.png,test,False,,1.9164625,34,2
+chewinggum/Data/Images/Normal/181.JPG,images/Normal/181.png,test,False,,1.9623746,3,6
+chewinggum/Data/Images/Normal/186.JPG,images/Normal/186.png,test,False,,1.9832107,35,26
+chewinggum/Data/Images/Normal/188.JPG,images/Normal/188.png,test,False,,2.1646438,33,12
+chewinggum/Data/Images/Normal/190.JPG,images/Normal/190.png,test,False,,2.1686413,32,8
+chewinggum/Data/Images/Normal/193.JPG,images/Normal/193.png,test,False,,1.9246999,2,7
+chewinggum/Data/Images/Normal/202.JPG,images/Normal/202.png,test,False,,1.9657497,34,41
+chewinggum/Data/Images/Normal/209.JPG,images/Normal/209.png,test,False,,2.0813696,33,10
+chewinggum/Data/Images/Normal/215.JPG,images/Normal/215.png,test,False,,2.0612419,4,3
+chewinggum/Data/Images/Normal/220.JPG,images/Normal/220.png,test,False,,1.947221,35,55
+chewinggum/Data/Images/Normal/223.JPG,images/Normal/223.png,test,False,,1.9622889,7,1
+chewinggum/Data/Images/Normal/238.JPG,images/Normal/238.png,test,False,,1.9590545,31,3
+chewinggum/Data/Images/Normal/240.JPG,images/Normal/240.png,test,False,,1.9839977,34,52
+chewinggum/Data/Images/Normal/244.JPG,images/Normal/244.png,test,False,,2.0694275,35,5
+chewinggum/Data/Images/Normal/248.JPG,images/Normal/248.png,test,False,,1.9907528,24,2
+chewinggum/Data/Images/Normal/258.JPG,images/Normal/258.png,test,False,,1.9379405,34,26
+chewinggum/Data/Images/Normal/260.JPG,images/Normal/260.png,test,False,,1.9815894,34,3
+chewinggum/Data/Images/Normal/270.JPG,images/Normal/270.png,test,False,,2.135453,6,2
+chewinggum/Data/Images/Normal/286.JPG,images/Normal/286.png,test,False,,1.9978154,35,51
+chewinggum/Data/Images/Normal/287.JPG,images/Normal/287.png,test,False,,2.1124287,36,8
+chewinggum/Data/Images/Normal/293.JPG,images/Normal/293.png,test,False,,2.0462418,5,55
+chewinggum/Data/Images/Normal/295.JPG,images/Normal/295.png,test,False,,1.9890567,35,38
+chewinggum/Data/Images/Normal/297.JPG,images/Normal/297.png,test,False,,1.9585004,35,12
+chewinggum/Data/Images/Normal/298.JPG,images/Normal/298.png,test,False,,2.0216942,28,53
+chewinggum/Data/Images/Normal/302.JPG,images/Normal/302.png,test,False,,1.920626,6,3
+chewinggum/Data/Images/Normal/316.JPG,images/Normal/316.png,test,False,,2.211932,21,14
+chewinggum/Data/Images/Normal/318.JPG,images/Normal/318.png,test,False,,1.9426514,36,47
+chewinggum/Data/Images/Normal/324.JPG,images/Normal/324.png,test,False,,1.9678823,34,13
+chewinggum/Data/Images/Normal/326.JPG,images/Normal/326.png,test,False,,1.920213,1,7
+chewinggum/Data/Images/Normal/327.JPG,images/Normal/327.png,test,False,,1.9447069,29,55
+chewinggum/Data/Images/Normal/328.JPG,images/Normal/328.png,test,False,,2.10896,33,38
+chewinggum/Data/Images/Normal/329.JPG,images/Normal/329.png,test,False,,1.8837974,1,56
+chewinggum/Data/Images/Normal/332.JPG,images/Normal/332.png,test,False,,2.0438638,10,12
+chewinggum/Data/Images/Normal/334.JPG,images/Normal/334.png,test,False,,1.9154267,23,2
+chewinggum/Data/Images/Normal/344.JPG,images/Normal/344.png,test,False,,2.0241184,32,53
+chewinggum/Data/Images/Normal/346.JPG,images/Normal/346.png,test,False,,1.9155865,33,47
+chewinggum/Data/Images/Normal/349.JPG,images/Normal/349.png,test,False,,1.9330659,34,18
+chewinggum/Data/Images/Normal/350.JPG,images/Normal/350.png,test,False,,1.9396744,11,55
+chewinggum/Data/Images/Normal/355.JPG,images/Normal/355.png,test,False,,2.1414263,35,35
+chewinggum/Data/Images/Normal/358.JPG,images/Normal/358.png,test,False,,2.0812986,2,5
+chewinggum/Data/Images/Normal/359.JPG,images/Normal/359.png,test,False,,1.9706794,34,7
+chewinggum/Data/Images/Normal/363.JPG,images/Normal/363.png,test,False,,2.0562024,30,54
+chewinggum/Data/Images/Normal/366.JPG,images/Normal/366.png,test,False,,1.9041972,6,2
+chewinggum/Data/Images/Normal/373.JPG,images/Normal/373.png,test,False,,1.9453713,5,56
+chewinggum/Data/Images/Normal/375.JPG,images/Normal/375.png,test,False,,1.9021267,4,2
+chewinggum/Data/Images/Normal/381.JPG,images/Normal/381.png,test,False,,1.9783536,28,2
+chewinggum/Data/Images/Normal/383.JPG,images/Normal/383.png,test,False,,2.057636,7,54
+chewinggum/Data/Images/Normal/391.JPG,images/Normal/391.png,test,False,,1.9726224,34,18
+chewinggum/Data/Images/Normal/397.JPG,images/Normal/397.png,test,False,,2.0191336,13,5
+chewinggum/Data/Images/Normal/406.JPG,images/Normal/406.png,test,False,,2.0239148,34,44
+chewinggum/Data/Images/Normal/416.JPG,images/Normal/416.png,test,False,,2.0229595,35,39
+chewinggum/Data/Images/Normal/421.JPG,images/Normal/421.png,test,False,,1.9653825,31,54
+chewinggum/Data/Images/Normal/422.JPG,images/Normal/422.png,test,False,,1.8799795,22,55
+chewinggum/Data/Images/Normal/424.JPG,images/Normal/424.png,test,False,,2.0186079,33,10
+chewinggum/Data/Images/Normal/430.JPG,images/Normal/430.png,test,False,,1.9474361,34,21
+chewinggum/Data/Images/Normal/438.JPG,images/Normal/438.png,test,False,,2.1078548,35,33
+chewinggum/Data/Images/Normal/439.JPG,images/Normal/439.png,test,False,,2.0267994,33,54
+chewinggum/Data/Images/Normal/444.JPG,images/Normal/444.png,test,False,,1.978613,10,55
+chewinggum/Data/Images/Normal/446.JPG,images/Normal/446.png,test,False,,2.024118,15,55
+chewinggum/Data/Images/Normal/451.JPG,images/Normal/451.png,test,False,,1.948288,30,44
+chewinggum/Data/Images/Normal/464.JPG,images/Normal/464.png,test,False,,2.0102947,3,53
+chewinggum/Data/Images/Normal/471.JPG,images/Normal/471.png,test,False,,1.9496415,35,53
+chewinggum/Data/Images/Normal/474.JPG,images/Normal/474.png,test,False,,1.9035916,28,54
+chewinggum/Data/Images/Normal/482.JPG,images/Normal/482.png,test,False,,2.0505984,2,50
+chewinggum/Data/Images/Normal/483.JPG,images/Normal/483.png,test,False,,2.0043678,35,12
+chewinggum/Data/Images/Normal/487.JPG,images/Normal/487.png,test,False,,1.9930757,36,46
+chewinggum/Data/Images/Normal/489.JPG,images/Normal/489.png,test,False,,2.108742,29,56
+chewinggum/Data/Images/Normal/490.JPG,images/Normal/490.png,test,False,,2.00239,34,52
+chewinggum/Data/Images/Normal/494.JPG,images/Normal/494.png,test,False,,2.006187,3,5
+chewinggum/Data/Images/Normal/499.JPG,images/Normal/499.png,test,False,,2.1797504,34,51

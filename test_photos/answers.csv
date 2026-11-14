@@ -1,0 +1,10 @@
+file,right_answer,defect_types,made_from,real_boxes
+photo_01.jpg,PASS,,"Normal/113 mirrored, left out in notebook 1.2",[]
+photo_02.jpg,REJECT,chunk of gum missing,"Normal/031 mirrored, defect copied from Anomaly/040","[[617, 543, 826, 696, ""chunk of gum missing""]]"
+photo_03.jpg,PASS,,"Normal/216 mirrored, left out in notebook 1.2",[]
+photo_04.jpg,REJECT,similar colour spot,"Normal/375 mirrored, defect copied from Anomaly/087","[[718, 638, 805, 701, ""similar colour spot""]]"
+photo_05.jpg,REJECT,corner missing,"Normal/332 mirrored, defect copied from Anomaly/036","[[328, 443, 446, 556, ""corner missing""]]"
+photo_06.jpg,PASS,,"Normal/265 mirrored, left out in notebook 1.2",[]
+photo_07.jpg,REJECT,scratches,"Normal/366 mirrored, defect copied from Anomaly/069","[[634, 517, 695, 639, ""scratches""], [424, 537, 443, 600, ""scratches""], [367, 581, 493, 628, ""scratches""]]"
+photo_08.jpg,REJECT,"corner missing,scratches","Normal/471 mirrored, defect copied from Anomaly/032","[[1042, 434, 1107, 500, ""corner missing""], [341, 446, 411, 515, ""corner missing""], [342, 796, 422, 867, ""corner missing""], [343, 581, 357, 766, ""scratches""]]"
+photo_09.jpg,PASS,,"Normal/351 mirrored, left out in notebook 1.2",[]
