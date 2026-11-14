@@ -1,5 +1,7 @@
 # PatchCore vs YOLO: Does a Factory Need Labeled Defects?
 
+**Live demo:** [visual-defect-inspection-gumcheck.streamlit.app](https://visual-defect-inspection-gumcheck.streamlit.app) (both models judge the same gum photo, and you can upload your own)
+
 A factory camera takes a photo of every product, here pieces of chewing gum. A model looks at each photo and decides: **PASS** or **REJECT**. This is called visual defect inspection.
 
 There are two ways to teach such a model:
@@ -229,7 +231,7 @@ A live check first cuts out the gum with the rule of notebook 3.1. An uploaded p
 
 Then open the address it shows (Local URL, `http://localhost:8501`) in the browser, and stop the app with Ctrl+C in the terminal. The app only reads files that are in this repo, so it works without the VisA download and without running the notebooks: the two models of the demo are in the repo (`models/patchcore/split_1_memory_bank.npz` and `models/yolo/split_1_k40/weights/last.pt`). The first live check downloads the ImageNet weights of WideResNet-50-2 into PyTorch's cache folder, if notebook 4.1 has not done that yet. Live checks use the GPU if there is one, and show the time of each model for that photo.
 
-**Online.** The app also runs on [Streamlit Community Cloud](https://streamlit.io/cloud), for free. There it has no GPU, so a live check takes a few seconds, and the first live check also downloads the ImageNet weights of WideResNet-50-2, which can take up to a minute. An app without visitors for 12 hours goes to sleep; the next visitor wakes it with one click. Two files are only for the cloud: `app/requirements.txt` (the libraries, with the CPU-only build of PyTorch) and `packages.txt` (two Linux libraries that OpenCV needs; YOLO uses OpenCV).
+**Online.** The app also runs at [visual-defect-inspection-gumcheck.streamlit.app](https://visual-defect-inspection-gumcheck.streamlit.app), on [Streamlit Community Cloud](https://streamlit.io/cloud), for free. There it has no GPU, so a live check takes a few seconds, and the first live check also downloads the ImageNet weights of WideResNet-50-2, which can take up to a minute. An app without visitors for 12 hours goes to sleep; the next visitor wakes it with one click. Two files are only for the cloud: `app/requirements.txt` (the libraries, with the CPU-only build of PyTorch) and `packages.txt` (two Linux libraries that OpenCV needs; YOLO uses OpenCV).
 
 Nothing in step 6 changes a model, a limit or a result.
 
