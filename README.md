@@ -134,7 +134,7 @@ This turns the 255 pieces of the 100 masks into 205 boxes. Normal photos get an 
 
 ## Modeling (notebooks 4.1 to 4.3)
 
-**PatchCore (4.1).** Written with PyTorch, following the paper (Roth et al., 2022). For each split it learns from the 347 normal train photos only:
+**PatchCore (4.1).** Written with PyTorch, following [the PatchCore paper](https://arxiv.org/abs/2106.08265). For each split it learns from the 347 normal train photos only:
 
 - A WideResNet-50-2, pretrained on ImageNet and not trained again, looks at every crop at half size (464 × 304) as a grid of 38 × 58 = 2,204 patches. Every patch becomes a list of 1,536 numbers (its feature), taken from two middle layers of the network and averaged with its 3 × 3 neighbours.
 - The 764,788 patch features of the normal train photos form the memory bank. A greedy coreset keeps 7,648 of them (1%), chosen so that every normal patch still has a close neighbour among them.
@@ -328,7 +328,7 @@ visual-defect-inspection/
 │   ├── inference.py                       <- runs both models on a new photo (live checks)
 │   ├── views/                             <- the 3 pages: inspect.py, results.py, how_it_works.py
 │   ├── data/                              <- made by notebook 6.1: gallery photos, gallery.csv, fingerprints.npz
-│   └── static/                            <- logo, and the fonts Geist and Geist Mono
+│   └── static/                            <- logo, and the fonts Geist and Geist Mono by Vercel (license: fonts/LICENSE.TXT)
 ├── test_photos/                           <- made by notebook 6.1: 9 new camera photos and answers.csv
 ├── .streamlit/
 │   └── config.toml                        <- colours and fonts of the app
@@ -383,10 +383,3 @@ Library versions are pinned in `requirements.txt`, `requirements-torch.txt` and 
 The files in `splits/` are already in this repo. Running notebooks 1.2 and 1.3 again makes the same files. The folder `data/processed/` (about 170 MB) is not in this repo: notebooks 3.1 and 3.2 make it. The folder `models/` is not in this repo either, except the 2 models of the demo: notebooks 4.1 and 4.2 make it. The first time, notebook 4.1 downloads the ImageNet weights of WideResNet-50-2 into PyTorch's cache folder, and notebook 4.2 downloads the pretrained YOLO26n into `models/yolo/`. Notebook 4.2 takes several hours; if it stops, run it again and it continues where it stopped.
 
 Developed on a Windows laptop with an Intel Core Ultra 7 255HX, an NVIDIA GeForce RTX 5070 Laptop GPU (8 GB VRAM) and 32 GB RAM.
-
-## Sources
-
-- VisA dataset, split files and class list: [amazon-science/spot-diff](https://github.com/amazon-science/spot-diff) (data: CC BY 4.0), [`split_csv`](https://github.com/amazon-science/spot-diff/tree/main/split_csv), [`utils/id2class.py`](https://github.com/amazon-science/spot-diff/blob/main/utils/id2class.py)
-- Zou, Y., Jeong, J., Pemula, L., Zhang, D., & Dabeer, O. (2022). SPot-the-Difference Self-Supervised Pre-training for Anomaly Detection and Segmentation. *ECCV 2022*. [arXiv:2207.14315](https://arxiv.org/abs/2207.14315)
-- Roth, K., Pemula, L., Zepeda, J., Schölkopf, B., Brox, T., & Gehler, P. (2022). Towards Total Recall in Industrial Anomaly Detection. *CVPR 2022*, 14318–14328. [arXiv:2106.08265](https://arxiv.org/abs/2106.08265)
-- App: [Streamlit](https://streamlit.io), with the fonts [Geist and Geist Mono](https://github.com/vercel/geist-font) by Vercel (SIL Open Font License 1.1, see `app/static/fonts/LICENSE.TXT`)
